@@ -148,7 +148,7 @@
 
 .product-card-small img {
     width: 5rem;
-    height: auto;
+    height: 5rem;
     margin-right: 0.9375rem;
 }
 
@@ -242,7 +242,7 @@
 .nail-shape-section {
     text-align: center;
     padding: 2rem;
-    margin: 0 25rem;
+    margin: 0 20rem;
 }
 
 .nail-shape-section h2 {
@@ -263,8 +263,8 @@
 }
 
 .shape-item img {
-    width: 100%;
-    height: auto;
+    width: 200px;
+    height: 300px;
     max-width: 200px;
     object-fit: cover;
     border-radius: 10px;
@@ -465,8 +465,8 @@ body {
 
 /* Style for the image */
 .product-item img {
-    max-width: 100%;
-    height: auto;
+    width: 350px;
+    height: 250px;
     border-radius: 8px;
 }
 
